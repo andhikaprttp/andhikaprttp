@@ -1,12 +1,10 @@
 
-- 🌱 
+ 🌱  Keep Learning
 <hr>
 
 ### About Me 😅
-[New account in andhikaprttp](https://github.com/andhikaprttp)
----
 
-remaja yang tertarik akan teknologi informasi <br dan masih mempelajari beberapa bahasa komputer terutama web seperti [HTML](p.md), [CSS](p.md) , [Javascript](p.md) , [Python](p.md) , [C](p.md) , [C++](c.md) dan turut serta berkontribusi di proyek [Wikipedia Indonesia](p.md) terkait Teknologi Informasi dan menyukai [Open Source](p.md) serta [Cyber security](p.md).
+remaja yang tertarik akan teknologi informasi <br> dan masih mempelajari beberapa bahasa komputer terutama web seperti [HTML](p.md), [CSS](p.md) , [Javascript](p.md) , [Python](p.md) , [C](p.md) , [C++](c.md) dan turut serta berkontribusi di proyek [Wikipedia Indonesia](p.md) terkait Teknologi Informasi dan menyukai [Open Source](p.md) serta [Cyber security](p.md).
 
 - [Kumpulan Ebook IT](https://drive.google.com/drive/mobile/folders/1nbdQoa8sx8F8FJtGOud610Dl2D1FtIKG?utm_source=Perpustakaan+IT+Group+)
 - [Proyek Front-End Web](front-end.md)
