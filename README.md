@@ -11,7 +11,6 @@ remaja yang tertarik akan teknologi informasi <br> dan masih mempelajari beberap
 
 [xcyberone web](https://dhikaweb7.github.io/web-tkj/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikaprttp)](https://github.com/andhikaprttp/github-readme-stats)
 
 #### Im learn 
 
