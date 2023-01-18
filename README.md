@@ -10,7 +10,8 @@ Remaja yang tertarik akan teknologi informasi <br> dan masih mempelajari beberap
 - [Proyek Front-End Web](front-end.md)
 
 [xcyberone web](https://dhikaweb7.github.io/web-tkj/)
-
+<br>
+[ My Blog ](https://andhikapratamap.hashnode.dev/)
 
 #### Im learn 
 
