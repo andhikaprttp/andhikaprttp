@@ -9,9 +9,11 @@ Remaja yang tertarik akan teknologi informasi <br> dan masih mempelajari beberap
 - [Kumpulan Ebook IT](https://drive.google.com/drive/mobile/folders/1nbdQoa8sx8F8FJtGOud610Dl2D1FtIKG?utm_source=Perpustakaan+IT+Group+)
 - [Proyek Front-End Web](front-end.md)
 
-[xcyberone web](https://dhikaweb7.github.io/web-tkj/)
+[ My Portofolio Web ](https://andhikaprttp.github.io/)
 <br>
-[ My Blog ](https://andhikapratamap.hashnode.dev/)
+- [ xcyberone web ](https://dhikaweb7.github.io/web-tkj/)
+<br>
+[My Blog](https://andhikapratamap.hashnode.dev/)
 
 #### Im learn 
 
