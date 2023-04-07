@@ -13,7 +13,7 @@ Remaja yang tertarik akan teknologi informasi <br> dan masih mempelajari beberap
 <br>
 - [ xcyberone web ](https://dhikaweb7.github.io/web-tkj/)
 <br>
-[My Blog](https://andhikapratamap.hashnode.dev/)
+<a href="https://andhikapratamap.hashnode.dev/">My Blog</a>
 
 #### Im learn 
 
