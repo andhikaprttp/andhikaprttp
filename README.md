@@ -1,14 +1,6 @@
 
  🌱  Keep Learning
-<hr>
 
-- [Kumpulan Ebook IT](https://drive.google.com/drive/mobile/folders/1nbdQoa8sx8F8FJtGOud610Dl2D1FtIKG?utm_source=Perpustakaan+IT+Group+)
-- [Proyek Front-End Web](front-end.md)
-
-[ My Portofolio Web ](https://andhikaprttp.github.io/)
-<br>
-- [ xcyberone web ](https://dhikaweb7.github.io/web-tkj/)
-<br>
 <a href="https://andhikapratamap.hashnode.dev/">My Blog</a>
 
 #### Im learn 
