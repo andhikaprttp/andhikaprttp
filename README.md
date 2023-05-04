@@ -1,5 +1,5 @@
 
- 🌱  Keep Learning
+ 🌱 Keep Learning
 
 <a href="https://andhikapratamap.hashnode.dev/">My Blog</a>
 
