@@ -9,7 +9,10 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andhikaprttp)](https://github.com/andhikaprttp/github-readme-stats)
+
 <hr>
+
 
 
 ### My Partner
