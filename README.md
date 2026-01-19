@@ -12,8 +12,6 @@
 ### My Partner
 <a href="https://github.com/dhikaweb7"><img src="https://img.shields.io/badge/Prazzdev-000?style=for-the-badge&logo=github&logoColor=fff" /></a>
 
-<a href="https://github.com/andhikaprttp"><img src="https://img.shields.io/badge/DEWI-RATIH-000?style=for-the-badge&logo=github&logoColor=fff" /></a>
-
 ### My Devices
 
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
